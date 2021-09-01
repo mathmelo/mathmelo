@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning NodeJS, ReactJS and React Native
 - 💬 Ask me about guitars
-- 📫 How to reach me: [Send me an email](<mailto: groove.street.x@hotmail.com>)
+- 📫 How to reach me: [Send me an email](<mailto: dev.matheus.melo@gmail.com>)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I loooove 3D renders
 
