@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/mathmelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melosso&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathmelo&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Meloso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
