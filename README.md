@@ -1,6 +1,5 @@
 ### Yo! Matheus here... 👋
 
-- 🔭 I’m currently working on my own website
 - 💣 Computer Science Student at UFG
 - 🌱 Javascript Developer (NodeJS, ReactJS and React Native)
 - 💬 [Never ending NUJABES](https://www.youtube.com/watch?v=2sML2bq_WGw) 
