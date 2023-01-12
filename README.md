@@ -7,10 +7,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Hobby: I loooove 3D renders and play guitar
 
-<div>
+<!-- <div>
   <a href="https://github.com/mathmelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathmelo&layout=compact&show_icons=true&theme=midnight-purple"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Meloso-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Meloso-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
