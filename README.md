@@ -1,7 +1,7 @@
 ### Yo! Matheus here... 👋
 
-- 🌱 Javascript Developer (NodeJS, ReactJS and React Native)
-- 💣 Computer Science Student at UFG
+- 🌱 Javascript Developer
+- 💣 Computer Science Student
 - 💬 [Never ending NUJABES](https://www.youtube.com/watch?v=2sML2bq_WGw) 
 - 📫 How to reach me: [Send me an email](<mailto: dev.matheus.melo@gmail.com>)
 - 😄 Pronouns: He/His
